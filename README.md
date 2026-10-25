@@ -22,7 +22,7 @@ Responsive, no-backend website built with HTML, CSS and vanilla JavaScript.
 - Constitution: Proprietorship
 - Registered address: House No. 223, Ward No. 40, Abhimanyu Nagar, Danapur, Prathmik Vidyalaya, Patna, Bihar 801503
 - Certificate date shown: 07/08/2025
-- Contact supplied by owner: +91 90069 80915, singhdeeps.1809@gmail.com
+- Contact supplied by owner: +91 90069 80915, roushankr62466@gmail.com
 
 ## Before going live
 - Verify the GST information and public-facing address.
@@ -30,3 +30,10 @@ Responsive, no-backend website built with HTML, CSS and vanilla JavaScript.
 - Site photographs are labelled as field/site images; they should not be taken as evidence of completed road or canal contracts.
 - Department links are for reference and do not imply a specific award or endorsement.
 - Google Fonts requires internet access; local logo and gallery photos work offline.
+
+
+## Updated photo gallery and contact links
+- The `assets/` folder contains the Aarohan logo and 15 replacement site photographs supplied by the owner. Previous photo assets have been removed.
+- Contact email: roushankr62466@gmail.com
+- WhatsApp: https://wa.me/919006980915
+- `.nojekyll` is included at the repository root for static GitHub Pages publishing.
