@@ -3,10 +3,11 @@
 Responsive, no-backend website built with HTML, CSS and vanilla JavaScript.
 
 ## Run locally
-1. Extract the ZIP.
-2. Open this folder in VS Code.
-3. Open `index.html` in a browser or use VS Code Live Server.
-4. No build process or package installation is needed.
+1. Extract the entire ZIP (do not copy `index.html` by itself).
+2. Keep `index.html`, `styles.css`, `script.js`, and the complete `assets` folder together.
+3. Open `index.html` in a browser, or open the folder in VS Code and use Live Server.
+4. If you previously extracted an older ZIP, extract this version into a new folder to avoid mixing old and new assets.
+5. No build process or package installation is needed.
 
 ## Files
 - `index.html` — page content and accessible navigation
@@ -37,3 +38,6 @@ Responsive, no-backend website built with HTML, CSS and vanilla JavaScript.
 - Contact email: roushankr62466@gmail.com
 - WhatsApp: https://wa.me/919006980915
 - `.nojekyll` is included at the repository root for static GitHub Pages publishing.
+
+## Image troubleshooting
+All site photos and the hero background are bundled in `assets/`. The page uses relative `./assets/...` paths. If an image does not appear, verify the matching file exists in the extracted `assets` folder and that you are opening this version of `index.html`.
